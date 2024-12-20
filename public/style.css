@@ -1,0 +1,96 @@
+*{
+    background-color: whitesmoke;
+    
+}
+.box{
+   border: 2px solid wheat;
+   border-radius: 6px;
+}
+.card{
+    
+   margin-top: 50px;
+}
+.cards{
+    border: 2px solid wheat;
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+  width: auto;
+    height: 180px;
+    margin-top: 90px;
+   border-radius: 15px;
+    
+}
+.cards i{
+    text-align: center;
+}
+table td{
+    font-size: smaller;
+   border-bottom: 2px solid rgb(204, 201, 201);
+}
+.row{
+    padding: auto;
+margin: auto;
+
+}
+
+.section1{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section2{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section3{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section4{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section5{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section6{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.section7{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+    gap: 20px;
+  
+   
+}
+.section8{
+    border:2px solid rgb(206, 195, 195);
+    border-radius: 20px;
+  
+   
+}
+.sale{
+    display: flex;
+    justify-content: space-between;
+}
+.h4{
+    margin-bottom: 15px;
+   
+}
+ #map{
+padding-top: 30px;
+ }  
